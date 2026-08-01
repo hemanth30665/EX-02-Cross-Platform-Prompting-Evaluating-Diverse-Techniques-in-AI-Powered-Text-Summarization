@@ -4,7 +4,6 @@
 ---
 
 # Ex.No: 2
-# Date:03-08-2026
 
 # Cross-Platform Prompting: Evaluating Diverse Techniques in AI-Powered Text Summarization
 
